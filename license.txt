@@ -1,0 +1,6 @@
+Este documento técnico describe los problemas que pueden ap
+arecer al usar Citrix Licensing.  Este documento 
+forma parte de una serie de publicaciones técnicas cuyo fin es ofrecer información más detallada acerca de las 
+tareas que van más allá de la instalación de los componentes del sistema de licencias, y está diseñado para 
+complementar a la 
+Guía de introducción a Citrix Licensing.
